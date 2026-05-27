@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "title": "Smart-Ing: Inicio",
+      "snippet": "mundo real \u00b7 smart control. Soluciones en Automatizaci\u00f3n y Control, proporcionando sistemas inteligentes que permiten a nuestros clientes optimizar sus procesos.",
+      "link": "https://smart-ing.com/",
+      "date": null
+    },
+    {
+      "title": "End-to-end localization & translation services for global growth",
+      "snippet": "Smartling connects your brand with customers around the globe. Translate, automate & manage your content across platforms with real-time analytics.",
+      "link": "https://www.smartling.com/",
+      "date": null
+    },
+    {
+      "title": "SmartThings - Samsung",
+      "snippet": "With SmartThings, you can connect and control multiple devices quicker and easier. No matter where you are, you can monitor and control smart devices.",
+      "link": "https://www.samsung.com/us/support/owners/app/smartthings/",
+      "date": null
+    },
+    {
+      "title": "mBrainTrain \u2013 Fully portable EEG devices for recording and utilizing ...",
+      "snippet": "Powerful portable EEG systems designed for lab, field \u2013 and beyond \u00b7 Smarting Spectra \u00b7 Smarting Pro \u00b7 Spectra Hyperscanning \u00b7 Smarting Pro X \u00b7 Desktop Software.",
+      "link": "https://mbraintrain.com/",
+      "date": null
+    },
+    {
+      "title": "Smart home with Samsung SmartThings | Samsung US",
+      "snippet": "With SmartThings, you can create an AI-powered home that makes life more comfortable for you and looks after your loved ones.",
+      "link": "https://www.samsung.com/us/smartthings/",
+      "date": null
+    },
+    {
+      "title": "SmartThings - Apps on Google Play",
+      "snippet": "Quickly and easily connect and control your smart home devices through SmartThings. SmartThings is compatible with 100s of smart home brands.",
+      "link": "https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect",
+      "date": null
+    },
+    {
+      "title": "SmartThings - App Store - Apple",
+      "snippet": "Quickly and easily connect and control your smart home devices through SmartThings. SmartThings is compatible with 100s of smart home brands.",
+      "link": "https://apps.apple.com/us/app/smartthings/id1222822904",
+      "date": null
+    },
+    {
+      "title": "Gas Distribution, Gas Gathering, Gas Transmission, Hazardous ...",
+      "snippet": "Annual reports include information such as total pipeline mileage, facilities, commodities transported, miles by material, and installation dates.",
+      "link": "https://www.phmsa.dot.gov/data-and-statistics/pipeline/gas-distribution-gas-gathering-gas-transmission-hazardous-liquids",
+      "date": null
+    },
+    {
+      "title": "SMART Plan for Public Employees | Mass.gov",
+      "snippet": "SMART Plan for Public Employees. If you are a public service employee interested in saving for retirement, you may be eligible for our SMART Plan.",
+      "link": "https://www.mass.gov/smart-plan-for-public-employees",
+      "date": null
+    },
+    {
+      "title": "Holiday Inn Express\u00ae by IHG Official Site | Book Reservations Direct",
+      "snippet": "Simplify your travels with Holiday Inn Express\u00ae by IHG on the official site. Enjoy modern, smart accommodations designed for convenience.",
+      "link": "https://www.holidayinnexpress.com/hotels/us/en/reservation",
+      "date": null
+    }
+  ]
+}

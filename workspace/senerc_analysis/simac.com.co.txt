@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "title": "Sistemas de monitoreo automatizaci\u00f3n y control | SIMAC SAS",
+      "snippet": "SIMAC es una empresa de sistemas de monitoreo automatizaci\u00f3n y control. Ofrecemos soluciones integrales para la industria. \u00a1Vis\u00edtanos!",
+      "link": "https://simac.com.co/",
+      "date": null
+    },
+    {
+      "title": "Discover Simac's High-Quality Technological Solutions",
+      "snippet": "Discover how Simac transforms technology into high-quality solutions. Learn about Simac companies and services. Contact us for expert advice.",
+      "link": "https://www.simac.com/en",
+      "date": null
+    },
+    {
+      "title": "\u226b Cont\u00e1ctanos para atender todas tus dudas | SIMAC",
+      "snippet": "\u00a1Cont\u00e1ctanos ahora! SIMAC empresa consultora en automatizaci\u00f3n y control Industrial que esta a la vanguardia de sus clientes. \u00a1Descubre m\u00e1s!",
+      "link": "https://simac.com.co/contactanos/",
+      "date": null
+    },
+    {
+      "title": "Simac makes your digital transfer work",
+      "snippet": "Simac is your IT-partner for security, cloud, connectivity, access control, digital workplace and document automation. We are well known for our specific solutions in retail, leisure, industry and healthcare.",
+      "link": "https://www.simac.com/en/companies",
+      "date": null
+    },
+    {
+      "title": "\u226b Automatizaci\u00f3n y control industrial | SIMAC SAS",
+      "snippet": "Consultor\u00eda en automatizaci\u00f3n y Control Industrial, selecci\u00f3n de instrumentaci\u00f3n y dimensionamiento de controladores l\u00f3gicos programables.",
+      "link": "https://simac.com.co/acerca-de-nosotros-automatizacion-y-control-industrial/",
+      "date": null
+    },
+    {
+      "title": "Expertises - simac.com",
+      "snippet": "Discover cutting-edge IT services for retail automation, cloud solutions, networking, IT security, outsourcing, workspace customization, healthcare, machine vision, mechatronics, ID solutions, document automation, industrial automation, and connectivity at Simac.",
+      "link": "https://www.simac.com/en/solutions",
+      "date": null
+    },
+    {
+      "title": "Simac Electronics - Feel the connection",
+      "snippet": "Simac Electronics Get connected with the passionate specialists of Simac Electronics Every day, our team of forty five specialized and highly motivated professionals works hard to develop custom-made solutions for our customers. We put technical and commercial experts together to help you bring your organization to a higher level.",
+      "link": "https://www.simac.com/en/simacelectronics",
+      "date": null
+    },
+    {
+      "title": "SIMAC S.A.S | Medell\u00edn - Facebook",
+      "snippet": "SIMAC S.A.S, Medell\u00edn. 339 likes \u00b7 7 were here. DESDE 1995 SIMAC, es una empresa de ingenier\u00eda que realiza proyectos y montajes el\u00e9ctricos en control, automatizaci\u00f3n y telecomunicaciones.",
+      "link": "https://www.facebook.com/simacsas/",
+      "date": null
+    },
+    {
+      "title": "SIMAC S.A.S. - LinkedIn",
+      "snippet": "SIMAC S.A.S. | 1244 seguidores en LinkedIn. Innovation Company | Desde 1995 SIMAC, es una empresa de ingenier\u00eda que realiza proyectos y montajes el\u00e9ctricos en control, automatizaci\u00f3n y telecomunicaciones. Presta servicios de consultor\u00eda para las empresas que enfoquen su competitividad en el desarrollo tecnol\u00f3gico, la innovaci\u00f3n y la apropiaci\u00f3n de tecnolog\u00edas de punta. Nuestros Aliados ...",
+      "link": "https://co.linkedin.com/company/simacsas",
+      "date": null
+    },
+    {
+      "title": "Simac - Crunchbase Company Profile & Funding",
+      "snippet": "Simac specializes in providing comprehensive solutions in industrial automation, monitoring, and control systems. The company focuses on integrating technology to enhance operational efficiency across various industries.",
+      "link": "https://www.crunchbase.com/organization/simac-d3ef",
+      "date": null
+    }
+  ]
+}

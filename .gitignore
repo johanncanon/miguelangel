@@ -1,0 +1,12 @@
+logs/
+memory/
+memory-tdai/
+*.bak*
+*.clobbered.*
+.env
+browser-existing-session/
+media/
+completions/
+state/
+workspace/state/
+extensions/

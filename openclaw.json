@@ -1,0 +1,51 @@
+{
+  "models": {
+    "providers": {
+      "google-native": {
+        "api": "google-generative-ai",
+        "apiKey": "AIzaSyDlSJgRlpkUaJMzKJFQRigUQC2U3yFpu0s",
+        "baseUrl": "https://generativelanguage.googleapis.com",
+        "models": [
+          {
+            "id": "gemini-2.5-flash",
+            "name": "Gemini 2.5 Flash"
+          },
+          {
+            "id": "gemini-2.5-pro",
+            "name": "Gemini 2.5 Pro"
+          }
+        ]
+      }
+    }
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "botToken": "8772792219:AAEWp50ppRqA6S3IcW4m0ewWUELQm5Zt2Ig",
+      "allowFrom": [
+        "*"
+      ]
+    }
+  },
+  "gateway": {
+    "mode": "local",
+    "auth": {
+      "mode": "token",
+      "token": "12295abb815000f62d5b675d0c2c979ca74c75dd3d26f87d"
+    }
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.4.21",
+    "lastTouchedAt": "2026-04-29T17:30:08.357Z"
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "google-native/gemini-2.5-flash"
+      }
+    }
+  },
+  "env": {
+    "DESEARCH_API_KEY": "dsr_yV2emU70rt52QJNi4vRDV8dm0BBO830P37jODdGX"
+  }
+}

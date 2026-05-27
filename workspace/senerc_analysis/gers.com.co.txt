@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "title": "Gers 40 a\u00c3\u00b1os de experiencia en el sector el\u00c3\u00a9ctrico",
+      "snippet": "Soluciones. Servicios. Pruebas, automatizaci\u00c3\u00b3n y control \u00c2\u00b7 Dise\u00c3\u00b1o e ingenier\u00c3\u00ada \u00c2\u00b7 Smart Grids \u00c2\u00b7 Estudios de sistemas el\u00c3\u00a9ctricos \u00c2\u00b7 Servicios energ\u00c3\u00a9ticos\u00c2\u00a0...",
+      "link": "https://gers.com.co/",
+      "date": null
+    },
+    {
+      "title": "GERS",
+      "snippet": "GERS is an electrical engineering consulting company that offers electrical engineering consulting services in power system studies, protection & control\u00c2\u00a0...",
+      "link": "https://www.gers.com/",
+      "date": null
+    },
+    {
+      "title": "Protection And Control Design Engeineering",
+      "snippet": "GERS provides design and engineering services for power projects ranging in complexity from simple low voltage industrial designs to 500 KV substation\u00c2\u00a0...",
+      "link": "https://gers.com/protection-and-control",
+      "date": null
+    },
+    {
+      "title": "Field Services - GERS",
+      "snippet": "GERS Field Services include acceptance testing, FAT testing, testing and commissioning of electrical equipment, maintenance testing, generators testing,\u00c2\u00a0...",
+      "link": "https://www.gers-uk.com/field-services",
+      "date": null
+    },
+    {
+      "title": "GERS - Crunchbase Company Profile & Funding",
+      "snippet": "GERS provides solutions in studies, designs and engineering, equipment testing, planning and consulting in electrical systems.",
+      "link": "https://www.crunchbase.com/organization/gers-49a6",
+      "date": null
+    },
+    {
+      "title": "Gers S.A.S. Company Profile - Colombia",
+      "snippet": "GERS is an engineering consultancy company that specializes in electrical systems engineering, design studies, testing services, and power systems equipment.",
+      "link": "https://www.emis.com/php/company-profile/CO/Gers_SAS_en_3188861.html",
+      "date": null
+    },
+    {
+      "title": "Our Company - GERS",
+      "snippet": "GERS was founded in 1981 to provide comprehensive consulting services in electrical engineering and associated areas.",
+      "link": "https://gers.com/corporate-thinking",
+      "date": null
+    },
+    {
+      "title": "Write to us and we will answer you in a timely manner.",
+      "snippet": "",
+      "link": "https://gers-uk.com/contact",
+      "date": null
+    },
+    {
+      "title": "GERS USA - Consulting Engineers",
+      "snippet": "GERS is a group with more than 42 years of experience specializing in Consulting Services in Electrical Engineering and associated areas. The group has\u00c2\u00a0...",
+      "link": "https://prospeo.io/c/gers-usa-consulting-engineers",
+      "date": null
+    },
+    {
+      "title": "Write to us and we will answer you in a timely manner. - GERS",
+      "snippet": "",
+      "link": "https://gers.com/contact",
+      "date": null
+    }
+  ]
+}

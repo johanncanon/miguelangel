@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "title": "Atmosphere Alternative SAS - Asesor\u00eda para una efectiva adaptaci\u00f3n de ...",
+      "link": "https://atm-alt.com.co/es_es/",
+      "snippet": "Andrea M\u00e9ndez Profesional de Cambio Clim\u00e1tico Andrea es Ingeniera Qu\u00edmica y mag\u00edster en Ingenier\u00eda en Gesti\u00f3n Sostenible de la Energ\u00eda. Participa en el an\u00e1lisis de informaci\u00f3n y estimaci\u00f3n de reducciones de emisiones de Gases de Efecto Invernadero para proyectos de mitigaci\u00f3n."
+    },
+    {
+      "title": "Atmosphere Alternative - LinkedIn",
+      "link": "https://co.linkedin.com/company/atmosphere-alternative",
+      "snippet": "Atmosphere Alternative | 4001 seguidores en LinkedIn. atmosphere alternative enables climate change mitigation and the implementation of low GHG technologies by supporting the certification of GHG emission reduction activities under different recognized standards, including ISO 14064. The company offers consulting services to GHG mitigation project developers and other carbon market participants."
+    },
+    {
+      "title": "#Atenci\u00f3n \u00a1Convocator\u00eda de Trabajo Oferta Laboral! - LinkedIn",
+      "link": "https://es.linkedin.com/posts/atmosphere-alternative_atenci%C3%B3n-convocatorias-trabajosihay-activity-7024110667381010432-Puwb",
+      "snippet": "\ud83d\udce2 #Atenci\u00f3n \u00a1Convocator\u00eda de Trabajo Oferta Laboral! atmosphere alternative (Atm Alt) es una empresa colombiana de consultor\u00eda, especializada en la gesti\u00f3n de cambio clim\u00e1tico. Entre otros, realizamos la identificaci\u00f3n y asesor\u00eda de oportunidades generadoras de valor asociadas al cambio clim\u00e1tico para las empresas privadas, las ONG y el sector p\u00fablico. Nos encontramos en la ..."
+    },
+    {
+      "title": "directos.atm-es.com",
+      "link": "https://directos.atm-es.com/",
+      "snippet": "We would like to show you a description here but the site won't allow us."
+    },
+    {
+      "title": "Overview, News & Similar companies - ZoomInfo.com",
+      "link": "https://www.zoominfo.com/c/atmosphere-alternative/459375949",
+      "snippet": "View Atmosphere Alternative (www.atm-alt.com.co) location in Colombia , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+    },
+    {
+      "title": "Proyectos - Atmosphere Alternative SAS - atm-alt.com.co",
+      "link": "https://atm-alt.com.co/es_es/proyectos-atm/",
+      "snippet": "Asesor\u00eda para una efectiva adaptaci\u00f3n de sus operaciones al cambio clim\u00e1tico, con beneficios para la empresa y la sociedad"
+    },
+    {
+      "title": "Old Home - Atmosphere Alternative SAS - atm-alt.com.co",
+      "link": "https://atm-alt.com.co/es_es/old-home/",
+      "snippet": "Asocarbono Es la Asociaci\u00f3n Colombiana de Actores del Mercado de Carbono, que se fund\u00f3 en el a\u00f1o 2018 a partir de la necesidad de contar con escenarios v\u00e1lidos, para que, mediante una sola voz, se haga viable analizar, discutir y concertar la construcci\u00f3n, fortalecimiento y consolidaci\u00f3n del mercado colombiano de carbono."
+    },
+    {
+      "title": "First Partnership Agreement - Atmosphere Alternative SAS",
+      "link": "https://atm-alt.com.co/es_es/portfolio-item/first-partnership-agreement/",
+      "snippet": "Asesor\u00eda t\u00e9cnica en proyectos de sostenibilidad, incluyendo: Revisi\u00f3n t\u00e9cnica del Documento de Dise\u00f1o de Proyecto para el per\u00edodo de cr\u00e9dito de renovaci\u00f3n de Jirau. Revisi\u00f3n t\u00e9cnica del Documento de Dise\u00f1o de Proyecto para el programa de eficiencia de iluminaci\u00f3n inteligente en R\u00edo de Janeiro. Desarrollo y presentaci\u00f3n de documentos del programa de actividades de BBOXX a ..."
+    },
+    {
+      "title": "Generaci\u00f3n de capacidades al interior de cada entidad adscrita al ...",
+      "link": "https://atm-alt.com.co/es_es/portfolio-item/generacion-de-capacidades-al-interior-de-cada-entidad-adscrita-al-ministerio-de-minas-y-energia-de-colombia/",
+      "snippet": "Generaci\u00f3n de capacidades al interior de cada entidad adscrita al Ministerio de Minas y Energ\u00eda de Colombia para la huella de carbono organizacional Fuente: https://atm-alt.com.co/ A\u00f1o de Inicio - A\u00f1o Finalizaci\u00f3n 2020 - 2020 Cliente Directo Centro Internacional de Agricultura Tropical (CIAT) Cliente Final Ministerio de Minas y Energ\u00eda de ..."
+    },
+    {
+      "title": "Acompa\u00f1amiento al Ministerio de Minas y Energ\u00eda en el establecimiento ...",
+      "link": "https://atm-alt.com.co/es_es/portfolio-item/acompanamiento-al-ministerio-de-minas-y-energia/",
+      "snippet": "Atmosphere Alternative acompa\u00f1\u00f3 al Ministerio de Minas y Energ\u00eda en el establecimiento de una pol\u00edtica de gesti\u00f3n integral de las emisiones de GEI y su programa de gesti\u00f3n de emisions, para alcanzar la certificaci\u00f3n de carbono-neutro por ICONTEC."
+    }
+  ]
+}

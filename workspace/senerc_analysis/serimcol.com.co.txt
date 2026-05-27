@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "title": "Inicio - Serim",
+      "link": "https://www.serimcol.com.co/",
+      "snippet": "Hoy en d\u00eda a trav\u00e9s de una adecuada gesti\u00f3n energ\u00e9tica integral apoyamos a nuestros clientes en la b\u00fasqueda de soluciones costo efectivas para reducir gastos energ\u00e9ticos fijos e impactar positivamente en temas ambientales, identificando oportunidades de ahorro en empresas del sector industrial, institucional y domiciliario."
+    },
+    {
+      "title": "Serimcol S.a.s",
+      "link": "https://www.serimcol.com/",
+      "snippet": "Bienvenidos a Serimcol Servicios, inversiones y mantenimiento Bienvenidos a Serimcol Servicios, inversiones y mantenimiento Bienvenido a Serimcol Prestamos servicios de ingenier\u00eda a empresas del sector industrial, actualmente ofrecemos un servicio a la medida que est\u00e1 enfocado en las necesidades de cada cliente."
+    },
+    {
+      "title": "Serim de Colombia E.S.E. SAS - LinkedIn",
+      "link": "https://co.linkedin.com/company/serim-de-colombia-e-s-e-sas",
+      "snippet": "Sitio web www.serimcol.com.co Sector Consultor\u00eda de operaciones Tama\u00f1o de la empresa De 2 a 10 empleados Sede BOGOTA, BOGOTA"
+    },
+    {
+      "title": "Sobre Nosotros - Serim",
+      "link": "https://www.serimcol.com.co/sobre-nosotros/",
+      "snippet": "Aportar soluciones y servicios costo efectivos que permitan a empresas, instituciones y usuarios finales generar indicadores de valor en el uso eficiente de la energ\u00eda y la disminuci\u00f3n del impacto ambiental, abarcando todas las actividades de la cadena de la energ\u00eda y consumo energ\u00e9tico."
+    },
+    {
+      "title": "Servicios e Importaciones De Colombia Serimcol S.A.S (Colombia)",
+      "link": "https://www.emis.com/php/company-profile/CO/Servicios_e_Importaciones_De_Colombia_Serimcol_SAS_en_3559459.html",
+      "snippet": "Servicios e Importaciones De Colombia Serimcol S.A.S is a company based in Colombia, with its head office in Bogota D.C.. It operates in the Commercial and Industrial Machinery and Equipment Rental and Leasing industry. The company was established on April 17, 2009. It currently has a total number of 564 (2025) employees."
+    },
+    {
+      "title": "Servicios E Importaciones De Colombia Serimcol S a S",
+      "link": "https://www.dnb.com/business-directory/company-profiles.servicios_e_importaciones_de_colombia_serimcol_s_a_s.9b158e8faf81760579deb8af04a5c6c3.html",
+      "snippet": "Find company research, competitor information, contact details & financial data for SERVICIOS E IMPORTACIONES DE COLOMBIA SERIMCOL S A S of BOGOTA D C, Distrito Capital de Bogota. Get the latest business insights from Dun & Bradstreet."
+    },
+    {
+      "title": "Servicios E Importaciones De Colombia Serimcol S A S: NIT y tel\u00e9fono",
+      "link": "https://www.informacolombia.com/directorio-empresas/informacion-empresa/servicios-importaciones-colombia-serimcol-ltda",
+      "snippet": "Empresas similares a Servicios E Importaciones De Colombia Serimcol S A S A continuaci\u00f3n le ofrecemos un listado con 10 empresas similares a Servicios E Importaciones De Colombia Serimcol S A S en BOGOTA y del sector Alquiler y arrendamiento de otros tipos de maquinaria equipo y bienes tangibles n c p."
+    },
+    {
+      "title": "Servicios E Importaciones De Colombia Serimcol S A S",
+      "link": "https://empresite.eleconomistaamerica.co/SERVICIOS-IMPORTACIONES-COLOMBIA-SERIMCOL-LTDA.html",
+      "snippet": "Servicios E Importaciones De Colombia Serimcol S A S est\u00e1 constituida como una SOCIEDAD POR ACCIONES SIMPLIFICADA. Si desea conocer m\u00e1s informaci\u00f3n sobre esta empresa, reg\u00edstrese en eInforma y obtenga de forma gratuita su Informe Ampliado de Servicios E Importaciones De Colombia Serimcol S A S."
+    },
+    {
+      "title": "Serimcol S.a.s",
+      "link": "https://www.serimcol.com/about.html",
+      "snippet": "Quienes Somos SERIMCOL es una empresa con mas de 10 a\u00f1os de experiencia en el mercado prestando servicios de mantenimiento industrial, tales como electromec\u00e1nicos, locativos, mobiliarios, entre otros; realizando licitaciones en el sector publico y privado y brindando asesor\u00eda personalizada en sistemas de gesti\u00f3n y dise\u00f1os de plantas. Los pilares de desarrollo y crecimiento se enfocan en ..."
+    },
+    {
+      "title": "Contacto - Serim",
+      "link": "https://www.serimcol.com.co/contacto/",
+      "snippet": "Optimizamos el recurso energ\u00e9tico de empresas, colegios, hospitales, municipios con planes de diagn\u00f3stico e implementaci\u00f3n que permiten hacer de la energ\u00eda un recurso para aumentar la productividad."
+    }
+  ]
+}
