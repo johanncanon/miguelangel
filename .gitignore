@@ -11,6 +11,7 @@ state/
 workspace/state/
 extensions/
 
+openclaw.json.last-good
 openclaw.json
 *.env
 *-keys.json
