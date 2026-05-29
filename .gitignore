@@ -21,3 +21,16 @@ agents/main/sessions/*
 
 # Ignorar offset de Telegram
 telegram/update-offset-default.json
+
+# Bases de datos y archivos temporales
+*.sqlite
+*.sqlite-*
+*lock.json
+
+# Autenticación y dispositivos
+identity/device-auth.json
+devices/paired.json
+
+# Configuraciones locales del agente
+agents/main/agent/models.json
+update-check.json
