@@ -10,3 +10,13 @@ completions/
 state/
 workspace/state/
 extensions/
+
+openclaw.json
+*.env
+*-keys.json
+
+# Ignorar historial y estado de sesiones
+agents/main/sessions/*
+
+# Ignorar offset de Telegram
+telegram/update-offset-default.json
