@@ -11,10 +11,34 @@ state/
 workspace/state/
 extensions/
 
-
 # Historiales y sesiones del agente
 agents/main/sessions/
 *.jsonl*
 
 # Bloqueos de skills
 workspace/skills/.skills_store_lock.json
+
+openclaw.json.last-good
+openclaw.json
+*.env
+*-keys.json
+
+# Ignorar historial y estado de sesiones
+agents/main/sessions/*
+
+# Ignorar offset de Telegram
+telegram/update-offset-default.json
+
+# Bases de datos y archivos temporales
+*.sqlite
+*.sqlite-*
+*lock.json
+
+# Autenticación y dispositivos
+identity/device-auth.json
+devices/paired.json
+
+# Configuraciones locales del agente
+agents/main/agent/models.json
+update-check.json
+>>>>>>> main
