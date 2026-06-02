@@ -41,4 +41,3 @@ devices/paired.json
 # Configuraciones locales del agente
 agents/main/agent/models.json
 update-check.json
->>>>>>> main
