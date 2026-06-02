@@ -11,6 +11,13 @@ state/
 workspace/state/
 extensions/
 
+# Historiales y sesiones del agente
+agents/main/sessions/
+*.jsonl*
+
+# Bloqueos de skills
+workspace/skills/.skills_store_lock.json
+
 openclaw.json.last-good
 openclaw.json
 *.env

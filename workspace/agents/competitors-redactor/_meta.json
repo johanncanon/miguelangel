@@ -1,0 +1,16 @@
+{
+    "name": "compettitors-redactor",
+    "version": "1.0.0",
+    "description": "Inteligencia competitiva, scraping de competidores e ingeniería inversa de contenidos.",
+    "models": {
+        "default": "gemini-2.5-flash",
+        "reasoning": "gemini-2.5-pro"
+    },
+    "skills": [
+        "desearch-web-search",
+        "web-content-fetcher",
+        "competitor-analysis",
+        "seo-competitor-analysis"
+    ],
+    "entrypoint": "compettitors-redactor-agent.md"
+}

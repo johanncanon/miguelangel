@@ -1,0 +1,16 @@
+{
+    "name": "b2b-content-architect",
+    "version": "1.0.0",
+    "description": "Arquitecto de contenidos B2B, creador de Documentos Maestros, estratega de funnels a largo plazo y redactor para LinkedIn y Meta.",
+    "models": {
+        "default": "gemini-2.5-flash",
+        "reasoning": "gemini-2.5-pro"
+    },
+    "skills": [
+        "marketing-strategy-pmm",
+        "social-media-scheduler",
+        "social-content",
+        "social-media-content-calendar"
+    ],
+    "entrypoint": "b2b-content-architect-agent.md"
+}
